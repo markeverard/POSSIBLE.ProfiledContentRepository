@@ -2,18 +2,18 @@
 <package >
   <metadata>
     <id>POSSIBLE.ProfiledContentRepository</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>mark.everard</authors>
     <licenseUrl>http://personalization.codeplex.com/license</licenseUrl>
-    <projectUrl>https://github.com/markeverard/POSSIBLE.ProfiledContentRespository</projectUrl>
+    <projectUrl>https://github.com/markeverard/POSSIBLE.ProfiledContentRepository</projectUrl>
     <iconUrl>http://www.markeverard.com/wp-content/uploads/2013/03/POSSIBLE_logo_white.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The POSSIBLE ProfiledContentRespository library provides an extension for EPiServer CMS 7, integrating the popular MiniProfiler tool giving developers detailed in-situ information into the EPiServer core content data layer.</description>
     <copyright>Copyright 2013</copyright>
     <summary>The POSSIBLE ProfiledContentRespository library provides an extension for EPiServer CMS 7, integrating the popular MiniProfiler tool giving developers detailed in-situ information into the EPiServer core content data layer.</summary>
     <dependencies>
-      <dependency id="EPiServer.Framework" version="[7.0.859.1]" />
-      <dependency id="EPiServer.CMS.Core" version="[7.0.586.1]" />
+      <dependency id="EPiServer.Framework" version="7.0.859.1" />
+      <dependency id="EPiServer.CMS.Core" version="7.0.586.1" />
       <dependency id="MiniProfiler" version="2.1.0" />
       <dependency id="StructureMap" version="[2.6.1]" />
     </dependencies>
